@@ -1,0 +1,3 @@
+Estos son los primeros 100000 steps:
+
+Se vee que este modelo ya puede circular por el circuito "cuadrado" con pocas curvas pero aun va demasiado lento
