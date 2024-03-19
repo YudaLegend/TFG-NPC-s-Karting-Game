@@ -1,0 +1,29 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 100051,
+                "file_path": "results\\Test4\\ArcadeDriver\\ArcadeDriver-100051.onnx",
+                "reward": null,
+                "creation_time": 1710877710.1404681,
+                "auxillary_file_paths": [
+                    "results\\Test4\\ArcadeDriver\\ArcadeDriver-100051.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100051,
+            "file_path": "results\\Test4\\ArcadeDriver.onnx",
+            "reward": null,
+            "creation_time": 1710877710.1404681,
+            "auxillary_file_paths": [
+                "results\\Test4\\ArcadeDriver\\ArcadeDriver-100051.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cpu"
+    }
+}
